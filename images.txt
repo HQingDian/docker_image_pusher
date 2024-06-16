@@ -1,1 +1,1 @@
-jenkins/jenkins:2.452.2-jdk17
+k8s-sidecar:1.27.4
