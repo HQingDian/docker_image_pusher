@@ -1,1 +1,1 @@
-docker.io/kiwigrid/k8s-sidecar:1.27.4
+maven:3.8.4-openjdk-11
